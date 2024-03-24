@@ -1,0 +1,20 @@
+.action-btn:hover{
+background-color: #FE8402 !important;
+}
+
+.nav-item a:hover {
+  background-color: #FE8402 !important;
+}
+
+.landing {
+  height: 100vh;
+}
+.user svg{
+  width: 60px;
+  height: 90px;
+}
+.custom-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 100 !important;
+}
